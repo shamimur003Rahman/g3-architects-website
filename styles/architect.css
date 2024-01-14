@@ -1,0 +1,6 @@
+/* work sans font from goole fonts */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,600;0,800;1,500;1,700;1,800&display=swap');
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
